@@ -1,1 +1,212 @@
-# enhansome-social-engineering
+# Awesome Social Engineering with stars
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,053 | 🐛 100 | 📅 2026-06-30
+
+<p align="center">
+  <img id="awesome-social-engineering" src="images/social_engineering.jpg">
+</p>
+
+A curated list of awesome social engineering resources, inspired by the awesome-\* trend on GitHub.
+
+Those resources and tools are intended only for cybersecurity professional, penetration testers and educational use in a controlled environment.
+
+**No humans were manipulated to make this list!**
+
+# Table of Contents
+
+1. [Online Courses](#online-courses)
+2. [Capture the Flag](#capture-the-flag)
+3. [Psychology Books](#psychology-books)
+4. [Books](#social-engineering-books)
+5. [Documentation](#documentation)
+6. [Tools](#tools)
+7. [Miscellaneus](#miscellaneous)
+8. [OSINT](#osint)
+9. [Contribution](#contribution)
+10. [License](#license)
+
+# Online Courses
+
+* [Udemy - Learn Social Engineering from Scratch](https://www.udemy.com/learn-social-engineering-from-scratch)
+
+* [PacktPub - Learn Social Engineering From Scratch by Zaid Sabih](https://www.packtpub.com/application-development/learn-social-engineering-scratch-video)
+
+* [Cybrary - Social Engineering and Manipulation](https://www.cybrary.it/course/social-engineering/) - Free Course
+
+# Capture the Flag
+
+#### Social-Engineer.com - The SECTF, DEFCON
+
+* [Social-Engineer.com - DEFCON SECTF](https://www.social-engineer.org/sevillage-def-con/the-sectf/)
+
+# Psychology Books
+
+Most of these books covers the basics of psychology useful for a social engineer.
+
+* [Artful Persuasion – How to command attention, Change minds and influence People – Harry Mills](https://www.amazon.com/Artful-Persuasion-Command-Attention-Influence/dp/0814470637)
+
+* [What is every BODY saying – Joe Navarro](https://www.amazon.com/What-Every-BODY-Saying-Speed-Reading-ebook/dp/B0010SKSTO/ref=sr_1_1?dchild=1\&keywords=what+is+everybody+saying+%E2%80%93+joe+navarro\&qid=1614256945\&s=books\&sr=1-1)
+
+* [Conflict, power and persuasion – Ben Hoffman](https://www.amazon.com/Conflict-Power-Persuasion-Negotiating-Effectively/dp/B0015E4JMK/ref=sr_1_1?dchild=1\&keywords=Conflict%2C+power+and+persuasion+%E2%80%93+Ben+Hoffman\&qid=1614256960\&s=books\&sr=1-1)
+
+* [Dealing with difficult people – McGraw Hill](https://www.amazon.com/Dealing-Difficult-People-McGraw-Hill-Professional-ebook/dp/B000P2A3R8/ref=sr_1_4?dchild=1\&keywords=Dealing+with+difficult+people+%E2%80%93+McGraw+Hill\&qid=1614256977\&s=books\&sr=1-4)
+
+* [Get anyone to do anything – David J Lieberman](https://www.amazon.com/Get-Anyone-Anything-Again-Psychological/dp/B01NH07LGD/ref=sr_1_2?dchild=1\&keywords=Get+anyone+to+do+anything+%E2%80%93+David+J+Lieberman\&qid=1614257001\&s=books\&sr=1-2)
+
+* [How to start a conversation and make friends - Don Gabor](https://www.amazon.com/How-Start-Conversation-Make-Friends/dp/1451610998/ref=sr_1_1?dchild=1\&keywords=How+to+start+a+conversation+and+make+friends+-+Don+Gabor%5D\&qid=1614257018\&s=books\&sr=1-1)
+
+* [The art of Psychological Warfare – Michael T Stevens](https://www.amazon.com/Art-Psychological-Warfare-Skillfully-Undetected/dp/1530719151/ref=sr_1_1?dchild=1\&keywords=The+art+of+Psychological+Warfare+%E2%80%93+Michael+T+Stevens\&qid=1614257033\&s=books\&sr=1-1)
+
+* [How to Win Friends and Influence People - Dale Carnegie](https://www.amazon.co.uk/d/Books/How-Win-Friends-Influence-People-Dale-Carnegie/0091906814/ref=sr_1_1?ie=UTF8\&qid=1494621059\&sr=8-1\&keywords=how+to+win+friends+and+influence+people)
+
+* [The 48 Laws of Power - Robert Greene](https://www.amazon.co.uk/d/Books/48-Laws-Power-Robert-Greene-Collection/1861972784/ref=sr_1_1?ie=UTF8\&qid=1494621512\&sr=8-1\&keywords=the+48+laws+of+power)
+
+* [The Psychology Book](https://www.amazon.co.uk/d/Books/Psychology-Book-Nigel-Benson/1405391243/ref=sr_1_1?ie=UTF8\&qid=1494621589\&sr=8-1\&keywords=psychology)
+
+* [The Power of Habit: Why We Do What We Do, and How to Change - Charles Duhigg](https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240/ref=sr_1_1?ie=UTF8\&qid=1494621842\&sr=8-1\&keywords=the+power+of+habit)
+
+* [Influence: The Psychology of Persuasion Paperback – Robert B., PhD Cialdini](https://www.amazon.co.uk/d/cka/Influence-Psychology-Persuasion-Robert-B-PhD-Cialdini/006124189X/ref=sr_1_1?ie=UTF8\&qid=1494621912\&sr=8-1\&keywords=influence)
+
+* [Emotions Revealed: Understanding Faces and Feelings - Prof Paul Ekman](https://www.amazon.co.uk/Emotions-Revealed-Understanding-Faces-Feelings/dp/0753817659/ref=sr_1_1?ie=UTF8\&qid=1494622003\&sr=8-1\&keywords=paul+ekman)
+
+* [The Psychology of Interrogations and Confessions: A Handbook - Gisli H. Gudjonsson](https://www.amazon.co.uk/Psychology-Interrogations-Confessions-Handbook-Policing-x/dp/0470844612/ref=sr_1_1?s=books\&ie=UTF8\&qid=1494624501\&sr=1-1\&keywords=psychology+of+interrogation)
+
+* [Mindfucking: A Critique of Mental Manipulation - Colin McGinn](https://www.goodreads.com/book/show/4049997-mindfucking)
+
+# Social Engineering Books
+
+* [Human Hacking – Chris Hadnagy](https://humanhackingbook.com/)
+
+* [Learn Social Engineering – Dr. Erdal Ozkaya](https://www.amazon.com/Learn-Social-Engineering-internationally-renowned-ebook/dp/B079HYPC27/ref=sr_1_1?dchild=1\&keywords=Learn+Social+Engineering+%E2%80%93+Dr.+Erdal+Ozkaya\&qid=1614257055\&s=books\&sr=1-1)
+
+* [Social Engineering: The Art of Human Hacking - Chris Hadnagy](https://www.amazon.co.uk/Social-Engineering-Art-Human-Hacking/dp/0470639539/ref=sr_1_1?ie=UTF8\&qid=1494622911\&sr=8-1\&keywords=chris+hadnagy)
+
+* [Social Engineering: The Science of Human Hacking](https://www.amazon.com/gp/product/111943338X/ref=dbs_a_def_rwt_bibl_vppi_i0)
+
+* [Unmasking the Social Engineer: The Human Element of Security - Christopher Hadnagy, Dr. Ekman Paul](https://www.amazon.com/Unmasking-Social-Engineer-Element-Security/dp/1118608577)
+
+* [Phishing Dark Waters: The Offensive and Defensive Sides of Malicious Emails - Christopher Hadnagy, Michele Fincher, Robin Dreeke ](https://www.amazon.co.uk/Phishing-Dark-Waters-Offensive-Defensive-x/dp/1118958470/ref=sr_1_fkmr0_1?ie=UTF8\&qid=1494622911\&sr=8-1-fkmr0\&keywords=chris+hadnagy)
+
+* [Social Engineering in IT Security: Tools, Tactics, and Techniques, Sharon Conheady](https://www.amazon.com/Social-Engineering-Security-Techniques-Networking/dp/0071818464)
+
+* [No Tech Hacking - Johnny Long, Kevin D. Mitnick](https://www.amazon.co.uk/No-Tech-Hacking-Engineering-Dumpster/dp/1597492159/ref=sr_1_1?ie=UTF8\&qid=1494624109\&sr=8-1\&keywords=no+tech+hacking)
+
+* [Low Tech Hacking: Street Smarts for Security Professionals - Jack Wiles, Terry Gudaitis, Jennifer Jabbusch, Russ Rogers](https://www.amazon.it/Low-Tech-Hacking-Security-Professionals/dp/1597496650)
+
+* [The Art of Deception: Controlling the Human Element of Security, Kevin D. Mitnick, William L. Simon](https://www.amazon.co.uk/Art-Deception-Controlling-Element-Security/dp/076454280X/ref=pd_sim_14_1?_encoding=UTF8\&psc=1\&refRID=37KD2B6G2Q981MB8D2GM)
+
+* [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker - Kevin D. Mitnick, William L. Simon, Steve Wozniak](https://www.amazon.com/Ghost-Wires-Adventures-Worlds-Wanted/dp/0316037729/ref=sr_1_1?s=books\&ie=UTF8\&qid=1494769979\&sr=1-1\&keywords=ghost+in+the+wires)
+
+* [The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data -  Kevin Mitnick, Robert Vamosi](https://www.amazon.com/Art-Invisibility-Worlds-Teaches-Brother/dp/0316380520/ref=tmm_pap_swatch_0?_encoding=UTF8\&qid=1494770268\&sr=1-1)
+
+* [The Social Engineer's Playbook: A Practical Guide to Pretexting - Jeremiah Talamantes](https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/ref=sr_1_1?s=books\&ie=UTF8\&qid=1494770673\&sr=1-1\&keywords=The+Social+Engineer%27s+Playbook%3A+A+Practical+Guide+to+Pretexting)
+
+* [Learn Social Engineering - Erdal Ozkaya](https://www.packtpub.com/networking-and-servers/learn-social-engineering)
+
+# COMMUNITIES
+
+[Abstract Security](https://discord.gg/zn3wsrr) - community od Discord that is focused around Physical Security and it has many members that are in the buissness of Physical Security.
+
+# Documentation
+
+#### Social Engineer resources
+
+* [The Social-Engineer portal](https://www.social-engineer.org/) - Everything you need to know as a social engineer is in this site. You will find podcasts, resources, framework, informations about next events, blog ecc...
+
+* [Layer 8 conference and podcast](https://layer8conference.com/) - Conference and podcast that is focused on OSINT and Social Engineering.
+
+# Tools
+
+#### Useful tools
+
+* [Tor](https://www.torproject.org/) - The free software for enabling onion routing online anonymity
+* [SET](https://github.com/trustedsec/social-engineer-toolkit) ⭐ 15,183 | 🐛 12 | 🌐 Python | 📅 2026-06-04 - The Social-Engineer Toolkit from TrustedSec
+
+#### Phishing tools
+
+* [Evilginx2](https://github.com/kgretzky/evilginx2) ⭐ 15,474 | 🐛 269 | 🌐 Go | 📅 2026-06-10 - MITM attack framework used for phishing credentials and session cookies from any Web service
+* [wifiphisher](https://github.com/sophron/wifiphisher) ⭐ 14,764 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Automated phishing attacks against Wi-Fi networks
+* [King Phisher](https://github.com/securestate/king-phisher) ⭐ 2,571 | 🐛 2 | 🌐 Python | 📅 2026-08-04 - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
+* [Gophish](https://getgophish.com/) - Open-Source Phishing Framework
+* [PhishingFrenzy](https://www.phishingfrenzy.com/) - Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns.
+* [Lucy Phishing Server](https://www.lucysecurity.com/) - (commercial) tool to perform security awareness trainings for employees including custom phishing campaigns, malware attacks etc. Includes many useful attack templates as well as training materials to raise security awareness.
+
+# Miscellaneous
+
+### Slides
+
+* [OWASP Presentation of Social Engineering](https://www.owasp.org/images/5/54/Presentation_Social_Engineering.pdf) - OWASP
+* [Weaponizing data science for social engineering: Automated E2E spear phishing on Twitter](https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Seymour-Tully-Weaponizing-Data-Science-For-Social-Engineering-WP.pdf) - Defcon 23
+* [Using Social Engineering Tactics For Big Data Espionage](https://www.rsaconference.com/writable/presentations/file_upload/das-301_williams_rader.pdf) - RSA Conference Europe 2012
+
+### Videos
+
+* [Chris Hadnagy - 7 Jedi Mind Tricks Influence Your Target without a Word](https://www.youtube.com/watch?v=OOQGsFlTHMQ)
+* [Robert Anderson - US Interrogation Techniques and Social Engineering](https://www.youtube.com/watch?v=nQqp6yqf4Ao)
+* [Ian Harris - Understanding Social Engineering Attacks with Natural Language Processing](https://www.youtube.com/watch?v=H3gfMkvw76o)
+* [Chris Hadnagy - Social Engineering for Fun and Profit](https://www.youtube.com/watch?v=cI9xOR7xEi0)
+* [Chris Hadnagy - Decoding humans live](https://www.youtube.com/watch?v=DoDWBe9atIo) - DerbyCon 2015
+* [This is how hackers hack you using simple social engineering](https://www.youtube.com/watch?v=lc7scxvKQOo)
+
+### Articles
+
+* [The Limits of Social Engineering](https://www.technologyreview.com/s/526561/the-limits-of-social-engineering/) - MIT, Technology Review
+* [The 7 Best Social Engineering Attacks Ever](http://www.darkreading.com/the-7-best-social-engineering-attacks-ever/d/d-id/1319411) - DarkReading
+* [Social Engineering: Compromising Users with an Office Document](http://resources.infosecinstitute.com/social-engineering-compromising-users-using-office-document/) - Infosec Institute
+* [The Persuasion Reading List](http://blog.dilbert.com/post/129784168866/the-persuasion-reading-list) - Scott Adams' Blog
+* [How I Socially Engineer Myself Into High Security Facilities](https://motherboard.vice.com/en_us/article/qv34zb/how-i-socially-engineer-myself-into-high-security-facilities) - Sophie Daniel
+
+### Movies
+
+* [Tiger Team (TV series)](https://en.wikipedia.org/wiki/Tiger_Team_)
+* [Catch Me If You Can](http://www.imdb.com/title/tt0264464/)
+* [Inception](http://www.imdb.com/title/tt1375666/)
+* [The Sting](https://www.imdb.com/title/tt0070735/)
+* [Sneakers](https://www.imdb.com/title/tt0105435/)
+
+# OSINT
+
+#### OSINT Resources
+
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 28,045 | 🐛 8 | 📅 2026-08-03 - Awesome list of OSINT
+* [OSINT Framework](http://osintframework.com/) - Collection of various OSInt tools broken out by category.
+* [NetBootcamp OSINT Tools](http://netbootcamp.org/osinttools/) - A collection of OSINT links and custom Web interfaces to other services such as [Facebook Graph Search](http://netbootcamp.org/facebook.html) and [various paste sites](http://netbootcamp.org/pastesearch.html).
+* [Automating OSINT blog](http://www.automatingosint.com/blog/) - A blog about OSINT curated by Justin Seitz, the same author of BHP.
+
+#### OSINT Tools
+
+* [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,029 | 🐛 9 | 🌐 Python | 📅 2026-08-12 - E-mail, subdomain and people names harvester
+* [DataSploit](https://github.com/upgoingstar/datasploit) ⭐ 3,310 | 🐛 107 | 🌐 Python | 📅 2025-11-20 - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
+* [github-dorks](https://github.com/techgaun/github-dorks) ⭐ 3,260 | 🐛 11 | 🌐 Python | 📅 2025-10-05 - CLI tool to scan github repos/organizations for potential sensitive information leak
+* [XRay](https://github.com/evilsocket/xray) ⚠️ Archived - XRay is a tool for recon, mapping and OSINT gathering from public networks.
+* [creepy](https://github.com/ilektrojohn/creepy) ⭐ 1,469 | 🐛 62 | 🌐 Python | 📅 2016-01-07 - A geolocation OSINT tool
+* [metagoofil](https://github.com/laramies/metagoofil) ⭐ 1,307 | 🐛 19 | 🌐 Python | 📅 2024-03-21 - Metadata harvester
+* [snitch](https://github.com/Smaash/snitch) ⭐ 402 | 🐛 1 | 🌐 Python | 📅 2022-04-19 - information gathering via dorks
+* [dork-cli](https://github.com/jgor/dork-cli) ⭐ 155 | 🐛 0 | 🌐 Python | 📅 2017-07-16 - Command-line Google dork tool.
+* [GooDork](https://github.com/k3170makan/GooDork) ⭐ 144 | 🐛 2 | 🌐 Python | 📅 2013-06-08 - Command line go0gle dorking tool
+* [vcsmap](https://github.com/melvinsh/vcsmap) ⭐ 139 | 🐛 1 | 🌐 Ruby | 📅 2021-08-31 - A plugin-based tool to scan public version control systems for sensitive information
+* [Geotweet\_GUI](https://github.com/Pinperepette/Geotweet_GUI) ⭐ 127 | 🐛 2 | 🌐 Python | 📅 2016-11-07 - Track geographical locations of tweets and then export to google maps.
+* [exiftool.rb](https://github.com/mceachen/exiftool.rb) ⭐ 79 | 🐛 3 | 🌐 Ruby | 📅 2026-06-22 - A ruby wrapper of the exiftool, a open-source tool used to extract metadata from files.
+* [Google-Dorks](https://github.com/arimogi/Google-Dorks) ⭐ 54 | 🐛 0 | 📅 2015-11-07 - Common google dorks and others you prolly don't know
+* [Buscador](https://inteltechniques.com/buscador/) - A Linux Virtual Machine that is pre-configured for online investigators
+* [Maltego](http://www.paterva.com/web7/) - Proprietary software for open source intelligence and forensics, from Paterva.
+* [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) - a database of Google dorks; can be used for recon
+* [Shodan](https://www.shodan.io/) - Shodan is the world's first search engine for Internet-connected devices
+* [recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - A full-featured Web Reconnaissance framework written in Python
+* [Spiderfoot](http://www.spiderfoot.net/) - multi-source OSINT automation tool with a Web UI and report visualizations
+
+# Contribution
+
+Your contributions and suggestions are heartily♥ welcome. (✿◕‿◕). Please check the [Contributing Guidelines](CONTRIBUTING.md) for more details.
+
+# License
+
+### License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
