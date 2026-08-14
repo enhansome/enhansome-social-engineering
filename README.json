@@ -14,7 +14,7 @@
             "last_commit": "2026-06-10T12:12:03Z",
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15474
+            "stars": 15483
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-05-22T17:42:02Z",
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14764
+            "stars": 14767
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-04T09:42:12Z",
             "owner": "CrimsonForge-io",
             "repo": "king-phisher",
-            "stars": 2571
+            "stars": 2572
           }
         }
       ],
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T22:47:34Z",
+            "last_commit": "2026-08-13T15:14:55Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17029
+            "stars": 17047
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2025-11-20T09:35:33Z",
             "owner": "DataSploit",
             "repo": "datasploit",
-            "stars": 3310
+            "stars": 3312
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-10-05T15:51:55Z",
             "owner": "techgaun",
             "repo": "github-dorks",
-            "stars": 3260
+            "stars": 3262
           }
         },
         {
@@ -118,7 +118,7 @@
             "last_commit": "2016-01-07T12:51:33Z",
             "owner": "ilektrojohn",
             "repo": "creepy",
-            "stars": 1469
+            "stars": 1468
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2017-07-16T20:07:02Z",
             "owner": "jgor",
             "repo": "dork-cli",
-            "stars": 155
+            "stars": 156
           }
         },
         {
@@ -243,7 +243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:10:24.093Z",
+    "last_updated": "2026-08-14T05:44:25.215Z",
     "original_repository": "giuliacassara/awesome-social-engineering",
     "original_repository_sha": "9d8de79388cd28284d07bf2f223e2d420fb720d2",
     "enhanced_repository": "enhansome/enhansome-social-engineering",
