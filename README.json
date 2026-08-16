@@ -14,7 +14,7 @@
             "last_commit": "2026-06-10T12:12:03Z",
             "owner": "kgretzky",
             "repo": "evilginx2",
-            "stars": 15488
+            "stars": 15487
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-05-22T17:42:02Z",
             "owner": "wifiphisher",
             "repo": "wifiphisher",
-            "stars": 14769
+            "stars": 14770
           }
         },
         {
@@ -59,10 +59,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T03:16:47Z",
+            "last_commit": "2026-08-16T04:32:00Z",
             "owner": "laramies",
             "repo": "theHarvester",
-            "stars": 17054
+            "stars": 17064
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2024-03-21T03:45:48Z",
             "owner": "laramies",
             "repo": "metagoofil",
-            "stars": 1307
+            "stars": 1308
           }
         },
         {
@@ -243,7 +243,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:44:32.548Z",
+    "last_updated": "2026-08-16T04:48:02.310Z",
     "original_repository": "giuliacassara/awesome-social-engineering",
     "original_repository_sha": "9d8de79388cd28284d07bf2f223e2d420fb720d2",
     "enhanced_repository": "enhansome/enhansome-social-engineering",
