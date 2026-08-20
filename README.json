@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-10T12:12:03Z",
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15502
+                "stars": 15508
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-05-22T17:42:02Z",
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14774
+                "stars": 14775
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-04T09:42:12Z",
                 "owner": "CrimsonForge-io",
                 "repo": "king-phisher",
-                "stars": 2576
+                "stars": 2580
               }
             }
           ],
@@ -75,7 +75,7 @@
                 "last_commit": "2026-08-18T16:58:35Z",
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17112
+                "stars": 17124
               }
             },
             {
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:51:19.255Z",
+    "last_updated": "2026-08-20T04:50:06.726Z",
     "original_repository": "giuliacassara/awesome-social-engineering",
     "original_repository_id": 91088883,
     "original_repository_sha": "9d8de79388cd28284d07bf2f223e2d420fb720d2",
