@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-10T12:12:03Z",
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15517
+                "stars": 15516
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-05-22T17:42:02Z",
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14777
+                "stars": 14780
               }
             },
             {
@@ -72,10 +72,10 @@
                 "archived": false,
                 "id": 1212922,
                 "language": "Python",
-                "last_commit": "2026-08-20T21:25:54Z",
+                "last_commit": "2026-08-21T17:44:25Z",
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17142
+                "stars": 17155
               }
             },
             {
@@ -105,7 +105,7 @@
                 "last_commit": "2025-10-05T15:51:55Z",
                 "owner": "techgaun",
                 "repo": "github-dorks",
-                "stars": 3269
+                "stars": 3268
               }
             },
             {
@@ -120,7 +120,7 @@
                 "last_commit": "2024-07-10T09:43:56Z",
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2331
+                "stars": 2330
               }
             },
             {
@@ -150,7 +150,7 @@
                 "last_commit": "2024-03-21T03:45:48Z",
                 "owner": "laramies",
                 "repo": "metagoofil",
-                "stars": 1310
+                "stars": 1311
               }
             },
             {
@@ -268,7 +268,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:52:04.433Z",
+    "last_updated": "2026-08-22T04:46:40.369Z",
     "original_repository": "giuliacassara/awesome-social-engineering",
     "original_repository_id": 91088883,
     "original_repository_sha": "9d8de79388cd28284d07bf2f223e2d420fb720d2",
