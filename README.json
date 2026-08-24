@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "SET",
+              "description": "The Social-Engineer Toolkit from TrustedSec",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7391261,
+                "language": "Python",
+                "last_commit": "2026-06-04T21:23:34Z",
+                "owner": "trustedsec",
+                "repo": "social-engineer-toolkit",
+                "stars": 15227
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Useful tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Evilginx2",
               "description": "MITM attack framework used for phishing credentials and session cookies from any Web service",
               "children": [],
@@ -17,7 +39,7 @@
                 "last_commit": "2026-06-10T12:12:03Z",
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15523
+                "stars": 15526
               }
             },
             {
@@ -65,6 +87,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Awesome OSINT",
+              "description": "Awesome list of OSINT",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75189212,
+                "language": null,
+                "last_commit": "2026-08-22T17:50:41Z",
+                "owner": "jivoi",
+                "repo": "awesome-osint",
+                "stars": 28281
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OSINT Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "theHarvester",
               "description": "E-mail, subdomain and people names harvester",
               "children": [],
@@ -75,7 +119,7 @@
                 "last_commit": "2026-08-24T02:20:49Z",
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17177
+                "stars": 17179
               }
             },
             {
@@ -225,7 +269,7 @@
                 "last_commit": "2016-11-07T19:35:36Z",
                 "owner": "Pinperepette",
                 "repo": "Geotweet_GUI",
-                "stars": 128
+                "stars": 129
               }
             },
             {
@@ -268,7 +312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:59:17.114Z",
+    "last_updated": "2026-08-24T13:59:28.366Z",
     "original_repository": "giuliacassara/awesome-social-engineering",
     "original_repository_id": 91088883,
     "original_repository_sha": "9d8de79388cd28284d07bf2f223e2d420fb720d2",
