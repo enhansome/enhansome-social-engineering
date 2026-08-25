@@ -1,6 +1,6 @@
 # Awesome Social Engineering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,677 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,693 | 🐛 106 | 📅 2026-08-21
 
 <p align="center">
   <img id="awesome-social-engineering" src="images/social_engineering.jpg">
@@ -124,7 +124,7 @@ Most of these books covers the basics of psychology useful for a social engineer
 
 #### Phishing tools
 
-* [Evilginx2](https://github.com/kgretzky/evilginx2) ⭐ 15,527 | 🐛 271 | 🌐 Go | 📅 2026-06-10 - MITM attack framework used for phishing credentials and session cookies from any Web service
+* [Evilginx2](https://github.com/kgretzky/evilginx2) ⭐ 15,528 | 🐛 271 | 🌐 Go | 📅 2026-06-10 - MITM attack framework used for phishing credentials and session cookies from any Web service
 * [wifiphisher](https://github.com/sophron/wifiphisher) ⭐ 14,783 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Automated phishing attacks against Wi-Fi networks
 * [King Phisher](https://github.com/securestate/king-phisher) ⭐ 2,583 | 🐛 2 | 🌐 Python | 📅 2026-08-04 - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
 * [Gophish](https://getgophish.com/) - Open-Source Phishing Framework
@@ -175,7 +175,7 @@ Most of these books covers the basics of psychology useful for a social engineer
 
 #### OSINT Tools
 
-* [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,190 | 🐛 8 | 🌐 Python | 📅 2026-08-25 - E-mail, subdomain and people names harvester
+* [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,191 | 🐛 8 | 🌐 Python | 📅 2026-08-25 - E-mail, subdomain and people names harvester
 * [DataSploit](https://github.com/upgoingstar/datasploit) ⭐ 3,314 | 🐛 107 | 🌐 Python | 📅 2025-11-20 - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
 * [github-dorks](https://github.com/techgaun/github-dorks) ⭐ 3,269 | 🐛 11 | 🌐 Python | 📅 2025-10-05 - CLI tool to scan github repos/organizations for potential sensitive information leak
 * [XRay](https://github.com/evilsocket/xray) ⚠️ Archived - XRay is a tool for recon, mapping and OSINT gathering from public networks.
