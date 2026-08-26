@@ -1,6 +1,6 @@
 # Awesome Social Engineering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,693 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,980 | 🐛 106 | 📅 2026-08-21
 
 <p align="center">
   <img id="awesome-social-engineering" src="images/social_engineering.jpg">
@@ -119,13 +119,13 @@ Most of these books covers the basics of psychology useful for a social engineer
 
 #### Useful tools
 
-* [SET](https://github.com/trustedsec/social-engineer-toolkit) ⭐ 15,230 | 🐛 12 | 🌐 Python | 📅 2026-06-04 - The Social-Engineer Toolkit from TrustedSec
+* [SET](https://github.com/trustedsec/social-engineer-toolkit) ⭐ 15,233 | 🐛 12 | 🌐 Python | 📅 2026-06-04 - The Social-Engineer Toolkit from TrustedSec
 * [Tor](https://www.torproject.org/) - The free software for enabling onion routing online anonymity
 
 #### Phishing tools
 
-* [Evilginx2](https://github.com/kgretzky/evilginx2) ⭐ 15,528 | 🐛 271 | 🌐 Go | 📅 2026-06-10 - MITM attack framework used for phishing credentials and session cookies from any Web service
-* [wifiphisher](https://github.com/sophron/wifiphisher) ⭐ 14,783 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Automated phishing attacks against Wi-Fi networks
+* [Evilginx2](https://github.com/kgretzky/evilginx2) ⭐ 15,531 | 🐛 271 | 🌐 Go | 📅 2026-06-10 - MITM attack framework used for phishing credentials and session cookies from any Web service
+* [wifiphisher](https://github.com/sophron/wifiphisher) ⭐ 14,786 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Automated phishing attacks against Wi-Fi networks
 * [King Phisher](https://github.com/securestate/king-phisher) ⭐ 2,583 | 🐛 2 | 🌐 Python | 📅 2026-08-04 - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
 * [Gophish](https://getgophish.com/) - Open-Source Phishing Framework
 * [PhishingFrenzy](https://www.phishingfrenzy.com/) - Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns.
@@ -168,23 +168,23 @@ Most of these books covers the basics of psychology useful for a social engineer
 
 #### OSINT Resources
 
-* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 28,300 | 🐛 8 | 📅 2026-08-22 - Awesome list of OSINT
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 28,329 | 🐛 4 | 📅 2026-08-25 - Awesome list of OSINT
 * [OSINT Framework](http://osintframework.com/) - Collection of various OSInt tools broken out by category.
 * [NetBootcamp OSINT Tools](http://netbootcamp.org/osinttools/) - A collection of OSINT links and custom Web interfaces to other services such as [Facebook Graph Search](http://netbootcamp.org/facebook.html) and [various paste sites](http://netbootcamp.org/pastesearch.html).
 * [Automating OSINT blog](http://www.automatingosint.com/blog/) - A blog about OSINT curated by Justin Seitz, the same author of BHP.
 
 #### OSINT Tools
 
-* [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,191 | 🐛 8 | 🌐 Python | 📅 2026-08-25 - E-mail, subdomain and people names harvester
-* [DataSploit](https://github.com/upgoingstar/datasploit) ⭐ 3,314 | 🐛 107 | 🌐 Python | 📅 2025-11-20 - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
-* [github-dorks](https://github.com/techgaun/github-dorks) ⭐ 3,269 | 🐛 11 | 🌐 Python | 📅 2025-10-05 - CLI tool to scan github repos/organizations for potential sensitive information leak
+* [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,197 | 🐛 8 | 🌐 Python | 📅 2026-08-26 - E-mail, subdomain and people names harvester
+* [DataSploit](https://github.com/upgoingstar/datasploit) ⭐ 3,316 | 🐛 107 | 🌐 Python | 📅 2025-11-20 - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
+* [github-dorks](https://github.com/techgaun/github-dorks) ⭐ 3,270 | 🐛 11 | 🌐 Python | 📅 2025-10-05 - CLI tool to scan github repos/organizations for potential sensitive information leak
 * [XRay](https://github.com/evilsocket/xray) ⚠️ Archived - XRay is a tool for recon, mapping and OSINT gathering from public networks.
-* [creepy](https://github.com/ilektrojohn/creepy) ⭐ 1,469 | 🐛 62 | 🌐 Python | 📅 2016-01-07 - A geolocation OSINT tool
-* [metagoofil](https://github.com/laramies/metagoofil) ⭐ 1,312 | 🐛 19 | 🌐 Python | 📅 2024-03-21 - Metadata harvester
+* [creepy](https://github.com/ilektrojohn/creepy) ⭐ 1,470 | 🐛 62 | 🌐 Python | 📅 2016-01-07 - A geolocation OSINT tool
+* [metagoofil](https://github.com/laramies/metagoofil) ⭐ 1,313 | 🐛 19 | 🌐 Python | 📅 2024-03-21 - Metadata harvester
 * [snitch](https://github.com/Smaash/snitch) ⭐ 402 | 🐛 1 | 🌐 Python | 📅 2022-04-19 - information gathering via dorks
 * [dork-cli](https://github.com/jgor/dork-cli) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2017-07-16 - Command-line Google dork tool.
 * [GooDork](https://github.com/k3170makan/GooDork) ⭐ 144 | 🐛 2 | 🌐 Python | 📅 2013-06-08 - Command line go0gle dorking tool
-* [vcsmap](https://github.com/melvinsh/vcsmap) ⭐ 139 | 🐛 1 | 🌐 Ruby | 📅 2021-08-31 - A plugin-based tool to scan public version control systems for sensitive information
+* [vcsmap](https://github.com/melvinsh/vcsmap) ⚠️ Archived - A plugin-based tool to scan public version control systems for sensitive information
 * [Geotweet\_GUI](https://github.com/Pinperepette/Geotweet_GUI) ⭐ 129 | 🐛 2 | 🌐 Python | 📅 2016-11-07 - Track geographical locations of tweets and then export to google maps.
 * [exiftool.rb](https://github.com/mceachen/exiftool.rb) ⭐ 79 | 🐛 3 | 🌐 Ruby | 📅 2026-06-22 - A ruby wrapper of the exiftool, a open-source tool used to extract metadata from files.
 * [Google-Dorks](https://github.com/arimogi/Google-Dorks) ⭐ 54 | 🐛 0 | 📅 2015-11-07 - Common google dorks and others you prolly don't know
@@ -209,4 +209,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
