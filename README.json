@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-04T21:23:34Z",
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15233
+                "stars": 15241
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-06-10T12:12:03Z",
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15531
+                "stars": 15536
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2026-05-22T17:42:02Z",
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14786
+                "stars": 14790
               }
             },
             {
@@ -97,7 +97,7 @@
                 "last_commit": "2026-08-25T21:17:45Z",
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28329
+                "stars": 28412
               }
             }
           ],
@@ -116,10 +116,10 @@
                 "archived": false,
                 "id": 1212922,
                 "language": "Python",
-                "last_commit": "2026-08-26T03:16:28Z",
+                "last_commit": "2026-08-27T03:04:56Z",
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17197
+                "stars": 17207
               }
             },
             {
@@ -149,7 +149,7 @@
                 "last_commit": "2025-10-05T15:51:55Z",
                 "owner": "techgaun",
                 "repo": "github-dorks",
-                "stars": 3270
+                "stars": 3271
               }
             },
             {
@@ -312,9 +312,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:53:57.629Z",
-    "original_repository": "giuliacassara/awesome-social-engineering",
-    "original_repository_id": 91088883,
+    "last_updated": "2026-08-27T12:06:56.100Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 91088883,
+      "language": null,
+      "last_commit": "2023-04-05T10:31:18Z",
+      "owner": "giuliacassara",
+      "repo": "awesome-social-engineering",
+      "stars": 4244
+    },
     "original_repository_sha": "9d8de79388cd28284d07bf2f223e2d420fb720d2",
     "enhanced_repository": "enhansome/enhansome-social-engineering",
     "enhanced_repository_description": null,
