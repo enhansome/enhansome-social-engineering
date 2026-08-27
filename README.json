@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-04T21:23:34Z",
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15241
+                "stars": 15242
               }
             }
           ],
@@ -54,7 +54,7 @@
                 "last_commit": "2026-05-22T17:42:02Z",
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14790
+                "stars": 14791
               }
             },
             {
@@ -97,7 +97,7 @@
                 "last_commit": "2026-08-25T21:17:45Z",
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28412
+                "stars": 28450
               }
             }
           ],
@@ -119,7 +119,7 @@
                 "last_commit": "2026-08-27T03:04:56Z",
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17207
+                "stars": 17210
               }
             },
             {
@@ -312,7 +312,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:56.100Z",
+    "last_updated": "2026-08-27T15:12:41.691Z",
     "original_repository_info": {
       "archived": false,
       "id": 91088883,
@@ -320,7 +320,7 @@
       "last_commit": "2023-04-05T10:31:18Z",
       "owner": "giuliacassara",
       "repo": "awesome-social-engineering",
-      "stars": 4244
+      "stars": 4245
     },
     "original_repository_sha": "9d8de79388cd28284d07bf2f223e2d420fb720d2",
     "enhanced_repository": "enhansome/enhansome-social-engineering",
