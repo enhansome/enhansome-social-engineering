@@ -18,7 +18,8 @@
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
                 "stars": 15242
-              }
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             }
           ],
           "description": null,
@@ -39,8 +40,9 @@
                 "last_commit": "2026-06-10T12:12:03Z",
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15536
-              }
+                "stars": 15541
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -54,8 +56,9 @@
                 "last_commit": "2026-05-22T17:42:02Z",
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14791
-              }
+                "stars": 14792
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -69,8 +72,9 @@
                 "last_commit": "2026-08-04T09:42:12Z",
                 "owner": "CrimsonForge-io",
                 "repo": "king-phisher",
-                "stars": 2583
-              }
+                "stars": 2584
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             }
           ],
           "description": null,
@@ -97,8 +101,9 @@
                 "last_commit": "2026-08-25T21:17:45Z",
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28450
-              }
+                "stars": 28587
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             }
           ],
           "description": null,
@@ -116,11 +121,12 @@
                 "archived": false,
                 "id": 1212922,
                 "language": "Python",
-                "last_commit": "2026-08-27T03:04:56Z",
+                "last_commit": "2026-08-28T00:16:12Z",
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17210
-              }
+                "stars": 17223
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -135,7 +141,8 @@
                 "owner": "DataSploit",
                 "repo": "datasploit",
                 "stars": 3316
-              }
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -149,8 +156,9 @@
                 "last_commit": "2025-10-05T15:51:55Z",
                 "owner": "techgaun",
                 "repo": "github-dorks",
-                "stars": 3271
-              }
+                "stars": 3272
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -165,7 +173,8 @@
                 "owner": "evilsocket",
                 "repo": "xray",
                 "stars": 2331
-              }
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -180,7 +189,8 @@
                 "owner": "ilektrojohn",
                 "repo": "creepy",
                 "stars": 1470
-              }
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -195,7 +205,8 @@
                 "owner": "laramies",
                 "repo": "metagoofil",
                 "stars": 1313
-              }
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -210,7 +221,8 @@
                 "owner": "Smaash",
                 "repo": "snitch",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -225,7 +237,8 @@
                 "owner": "jgor",
                 "repo": "dork-cli",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -240,7 +253,8 @@
                 "owner": "k3170makan",
                 "repo": "GooDork",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -255,7 +269,8 @@
                 "owner": "melvinsh",
                 "repo": "vcsmap",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "Pinperepette",
                 "repo": "Geotweet_GUI",
                 "stars": 129
-              }
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "exiftool-rb",
                 "repo": "exiftool.rb",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "arimogi",
                 "repo": "Google-Dorks",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T16:35:46.599Z"
             }
           ],
           "description": null,
@@ -312,7 +330,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:12:41.691Z",
+    "last_updated": "2026-08-28T16:35:46.599Z",
     "original_repository_info": {
       "archived": false,
       "id": 91088883,
@@ -320,7 +338,7 @@
       "last_commit": "2023-04-05T10:31:18Z",
       "owner": "giuliacassara",
       "repo": "awesome-social-engineering",
-      "stars": 4245
+      "stars": 4246
     },
     "original_repository_sha": "9d8de79388cd28284d07bf2f223e2d420fb720d2",
     "enhanced_repository": "enhansome/enhansome-social-engineering",
