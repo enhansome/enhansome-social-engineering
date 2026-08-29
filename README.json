@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15244,
+                "stars": 15246,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -49,7 +49,7 @@
                 "open_issues": 271,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15543,
+                "stars": 15544,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -70,7 +70,7 @@
                 "open_issues": 353,
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14793,
+                "stars": 14795,
                 "topics": [
                   "access-point",
                   "attack",
@@ -141,7 +141,7 @@
                 "open_issues": 9,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28635,
+                "stars": 28689,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -169,8 +169,8 @@
                 "id": 1212922,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-08-28T21:20:46Z",
-                "open_issues": 7,
+                "last_commit": "2026-08-29T04:51:55Z",
+                "open_issues": 6,
                 "owner": "laramies",
                 "repo": "theHarvester",
                 "stars": 17225,
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:20:35.823Z",
+    "last_updated": "2026-08-29T11:01:48.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome social engineering resources.",
@@ -490,7 +490,7 @@
       "open_issues": 10,
       "owner": "giuliacassara",
       "repo": "awesome-social-engineering",
-      "stars": 4247,
+      "stars": 4248,
       "topics": [
         "awesome-list",
         "infosec",
