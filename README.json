@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.",
+                "homepage": null,
                 "id": 7391261,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-04T21:23:34Z",
+                "open_issues": 12,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15242
+                "stars": 15244,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication",
+                "homepage": null,
                 "id": 140412864,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-10T12:12:03Z",
+                "open_issues": 271,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15541
+                "stars": 15543,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -51,12 +61,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Rogue Access Point Framework",
+                "homepage": "https://wifiphisher.org",
                 "id": 24499174,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-22T17:42:02Z",
+                "open_issues": 353,
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14792
+                "stars": 14793,
+                "topics": [
+                  "access-point",
+                  "attack",
+                  "malware",
+                  "phishing",
+                  "python",
+                  "redteaming",
+                  "rogue",
+                  "security",
+                  "wifi",
+                  "wifiphisher"
+                ]
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -67,12 +93,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Phishing Campaign Toolkit",
+                "homepage": null,
                 "id": 15592447,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-04T09:42:12Z",
+                "open_issues": 2,
                 "owner": "CrimsonForge-io",
                 "repo": "king-phisher",
-                "stars": 2584
+                "stars": 2584,
+                "topics": [
+                  "king-phisher",
+                  "phishing",
+                  "python",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             }
@@ -96,12 +132,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":scream: A curated list of amazingly awesome OSINT",
+                "homepage": null,
                 "id": 75189212,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T21:17:45Z",
+                "open_issues": 9,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 28587
+                "stars": 28635,
+                "topics": [
+                  "awesome-list",
+                  "osint",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             }
@@ -119,12 +164,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "E-mails, subdomains and names Harvester - OSINT ",
+                "homepage": "http://www.edge-security.com/",
                 "id": 1212922,
                 "language": "Python",
-                "last_commit": "2026-08-28T00:16:12Z",
+                "license": null,
+                "last_commit": "2026-08-28T21:20:46Z",
+                "open_issues": 7,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17223
+                "stars": 17225,
+                "topics": [
+                  "blueteam",
+                  "discovery",
+                  "emails",
+                  "information-gathering",
+                  "osint",
+                  "python",
+                  "recon",
+                  "reconnaissance",
+                  "redteam",
+                  "subdomain-enumeration"
+                ]
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -135,12 +196,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc.,  aggregate all the raw data, and give data in multiple formats.",
+                "homepage": null,
                 "id": 59483255,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-20T09:35:33Z",
+                "open_issues": 107,
                 "owner": "DataSploit",
                 "repo": "datasploit",
-                "stars": 3316
+                "stars": 3316,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -151,12 +217,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Find leaked secrets via github search",
+                "homepage": null,
                 "id": 44060490,
                 "language": "Python",
-                "last_commit": "2025-10-05T15:51:55Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:37:47Z",
+                "open_issues": 11,
                 "owner": "techgaun",
                 "repo": "github-dorks",
-                "stars": 3272
+                "stars": 3272,
+                "topics": [
+                  "dork",
+                  "dorker",
+                  "github-dork",
+                  "hacking",
+                  "hacktoberfest",
+                  "security-audit"
+                ]
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -167,12 +245,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "XRay is a tool for recon, mapping and OSINT gathering from public networks.",
+                "homepage": null,
                 "id": 96643394,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-10T09:43:56Z",
+                "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2331
+                "stars": 2331,
+                "topics": [
+                  "intelligence",
+                  "mapping",
+                  "network",
+                  "osint",
+                  "security",
+                  "shodan"
+                ]
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -183,12 +273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms.",
+                "homepage": "http://www.geocreepy.com",
                 "id": 1324060,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2016-01-07T12:51:33Z",
+                "open_issues": 62,
                 "owner": "ilektrojohn",
                 "repo": "creepy",
-                "stars": 1470
+                "stars": 1470,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -199,12 +294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Metadata harvester",
+                "homepage": null,
                 "id": 40654736,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2024-03-21T03:45:48Z",
+                "open_issues": 19,
                 "owner": "laramies",
                 "repo": "metagoofil",
-                "stars": 1313
+                "stars": 1314,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -215,12 +315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "information gathering via dorks",
+                "homepage": null,
                 "id": 38835809,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-04-19T20:46:40Z",
+                "open_issues": 1,
                 "owner": "Smaash",
                 "repo": "snitch",
-                "stars": 402
+                "stars": 402,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -231,12 +336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command-line Google dork tool. This is an early predecessor to dorkbot, which may be more useful: https://github.com/utiso/dorkbot",
+                "homepage": null,
                 "id": 29795499,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2017-07-16T20:07:02Z",
+                "open_issues": 0,
                 "owner": "jgor",
                 "repo": "dork-cli",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -247,12 +357,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line go0gle dorking tool ",
+                "homepage": "http://goo-dork.blogspot.com/",
                 "id": 3743762,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2013-06-08T23:13:12Z",
+                "open_issues": 2,
                 "owner": "k3170makan",
                 "repo": "GooDork",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -263,12 +378,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "vcsmap is a plugin-based tool to scan public version control systems for sensitive information.",
+                "homepage": null,
                 "id": 66195217,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2021-08-31T20:47:07Z",
+                "open_issues": 1,
                 "owner": "melvinsh",
                 "repo": "vcsmap",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -279,12 +399,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Social engineering tool for human hacking",
+                "homepage": "http://geotweet.altervista.org",
                 "id": 39302501,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-11-07T19:35:36Z",
+                "open_issues": 2,
                 "owner": "Pinperepette",
                 "repo": "Geotweet_GUI",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -295,12 +420,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ruby exiftool wrapper that is simple, correct, and supports multiget",
+                "homepage": null,
                 "id": 11411503,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2026-06-22T16:52:35Z",
+                "open_issues": 3,
                 "owner": "exiftool-rb",
                 "repo": "exiftool.rb",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "exif",
+                  "exif-data-extraction",
+                  "exiftool",
+                  "hacktoberfest",
+                  "image",
+                  "images",
+                  "movie",
+                  "movies",
+                  "photo",
+                  "photos",
+                  "ruby",
+                  "video"
+                ]
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             },
@@ -311,12 +454,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "I'm uploading dorks here.",
+                "homepage": "https://tinyurl.com/steeltempest4",
                 "id": 48912251,
                 "language": null,
+                "license": null,
                 "last_commit": "2015-11-07T09:21:00Z",
+                "open_issues": 0,
                 "owner": "arimogi",
                 "repo": "Google-Dorks",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
             }
@@ -330,15 +478,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:35:46.599Z",
+    "last_updated": "2026-08-29T04:20:35.823Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome social engineering resources.",
+      "homepage": null,
       "id": 91088883,
       "language": null,
+      "license": null,
       "last_commit": "2023-04-05T10:31:18Z",
+      "open_issues": 10,
       "owner": "giuliacassara",
       "repo": "awesome-social-engineering",
-      "stars": 4246
+      "stars": 4247,
+      "topics": [
+        "awesome-list",
+        "infosec",
+        "osint",
+        "psychology",
+        "social-engineering"
+      ]
     },
     "original_repository_sha": "9d8de79388cd28284d07bf2f223e2d420fb720d2",
     "enhanced_repository": "enhansome/enhansome-social-engineering",
