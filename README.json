@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15257,
+                "stars": 15262,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -49,7 +49,7 @@
                 "open_issues": 271,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15578,
+                "stars": 15581,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -70,7 +70,7 @@
                 "open_issues": 353,
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14812,
+                "stars": 14818,
                 "topics": [
                   "access-point",
                   "attack",
@@ -138,10 +138,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T07:13:16Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29162,
+                "stars": 29180,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -170,10 +170,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-04T22:20:21Z",
-                "open_issues": 9,
+                "open_issues": 7,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17294,
+                "stars": 17302,
                 "topics": [
                   "blueteam",
                   "discovery",
@@ -222,8 +222,8 @@
                 "id": 44060490,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T04:41:46Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-05T23:04:46Z",
+                "open_issues": 12,
                 "owner": "techgaun",
                 "repo": "github-dorks",
                 "stars": 3274,
@@ -282,7 +282,7 @@
                 "open_issues": 62,
                 "owner": "ilektrojohn",
                 "repo": "creepy",
-                "stars": 1470,
+                "stars": 1471,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:19:49.321Z",
+    "last_updated": "2026-09-06T08:38:24.210Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome social engineering resources.",
