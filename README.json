@@ -21,7 +21,7 @@
                 "open_issues": 12,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15262,
+                "stars": 15267,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -49,7 +49,7 @@
                 "open_issues": 271,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15581,
+                "stars": 15592,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -70,7 +70,7 @@
                 "open_issues": 353,
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14818,
+                "stars": 14822,
                 "topics": [
                   "access-point",
                   "attack",
@@ -102,7 +102,7 @@
                 "open_issues": 2,
                 "owner": "CrimsonForge-io",
                 "repo": "king-phisher",
-                "stars": 2582,
+                "stars": 2583,
                 "topics": [
                   "king-phisher",
                   "phishing",
@@ -138,10 +138,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T07:13:16Z",
-                "open_issues": 2,
+                "open_issues": 5,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29180,
+                "stars": 29202,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -169,11 +169,11 @@
                 "id": 1212922,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-04T22:20:21Z",
-                "open_issues": 7,
+                "last_commit": "2026-09-07T00:59:04Z",
+                "open_issues": 5,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17302,
+                "stars": 17316,
                 "topics": [
                   "blueteam",
                   "discovery",
@@ -205,7 +205,7 @@
                 "open_issues": 107,
                 "owner": "DataSploit",
                 "repo": "datasploit",
-                "stars": 3318,
+                "stars": 3319,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -226,7 +226,7 @@
                 "open_issues": 12,
                 "owner": "techgaun",
                 "repo": "github-dorks",
-                "stars": 3274,
+                "stars": 3275,
                 "topics": [
                   "dork",
                   "dorker",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:38:24.210Z",
+    "last_updated": "2026-09-07T09:17:30.031Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome social engineering resources.",
@@ -487,7 +487,7 @@
       "language": null,
       "license": null,
       "last_commit": "2023-04-05T10:31:18Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "giuliacassara",
       "repo": "awesome-social-engineering",
       "stars": 4254,
