@@ -21,7 +21,7 @@
                 "open_issues": 15,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15351,
+                "stars": 15350,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -141,7 +141,7 @@
                 "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29877,
+                "stars": 29878,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -173,7 +173,7 @@
                 "open_issues": 7,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17767,
+                "stars": 17770,
                 "topics": [
                   "blueteam",
                   "discovery",
@@ -226,7 +226,7 @@
                 "open_issues": 10,
                 "owner": "techgaun",
                 "repo": "github-dorks",
-                "stars": 3288,
+                "stars": 3289,
                 "topics": [
                   "dork",
                   "dorker",
@@ -303,7 +303,7 @@
                 "open_issues": 19,
                 "owner": "laramies",
                 "repo": "metagoofil",
-                "stars": 1323,
+                "stars": 1324,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:08:00.337Z",
+    "last_updated": "2026-10-03T09:50:45.125Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome social engineering resources.",
@@ -490,7 +490,7 @@
       "open_issues": 11,
       "owner": "giuliacassara",
       "repo": "awesome-social-engineering",
-      "stars": 4280,
+      "stars": 4282,
       "topics": [
         "awesome-list",
         "infosec",
