@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-06-04T21:23:34Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15352,
+                "stars": 15354,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -49,7 +49,7 @@
                 "open_issues": 266,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15688,
+                "stars": 15692,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -70,7 +70,7 @@
                 "open_issues": 353,
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14878,
+                "stars": 14879,
                 "topics": [
                   "access-point",
                   "attack",
@@ -99,7 +99,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-04T09:42:12Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "CrimsonForge-io",
                 "repo": "king-phisher",
                 "stars": 2599,
@@ -137,11 +137,11 @@
                 "id": 75189212,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T00:34:52Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-06T09:06:33Z",
+                "open_issues": 0,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 29919,
+                "stars": 29987,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -173,7 +173,7 @@
                 "open_issues": 7,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17841,
+                "stars": 17862,
                 "topics": [
                   "blueteam",
                   "discovery",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T11:24:14.652Z",
+    "last_updated": "2026-10-06T10:40:32.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome social engineering resources.",
@@ -487,10 +487,10 @@
       "language": null,
       "license": null,
       "last_commit": "2023-04-05T10:31:18Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "giuliacassara",
       "repo": "awesome-social-engineering",
-      "stars": 4285,
+      "stars": 4287,
       "topics": [
         "awesome-list",
         "infosec",

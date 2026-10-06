@@ -1,6 +1,6 @@
 # Awesome Social Engineering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,901 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,362 | 🐛 106 | 📅 2026-09-02
 
 <p align="center">
   <img id="awesome-social-engineering" src="images/social_engineering.jpg">
@@ -119,14 +119,14 @@ Most of these books covers the basics of psychology useful for a social engineer
 
 #### Useful tools
 
-* [SET](https://github.com/trustedsec/social-engineer-toolkit) ⭐ 15,352 | 🐛 17 | 🌐 Python | 📅 2026-06-04 - The Social-Engineer Toolkit from TrustedSec
+* [SET](https://github.com/trustedsec/social-engineer-toolkit) ⭐ 15,354 | 🐛 18 | 🌐 Python | 📅 2026-06-04 - The Social-Engineer Toolkit from TrustedSec
 * [Tor](https://www.torproject.org/) - The free software for enabling onion routing online anonymity
 
 #### Phishing tools
 
-* [Evilginx2](https://github.com/kgretzky/evilginx2) ⭐ 15,688 | 🐛 266 | 🌐 Go | 📅 2026-06-10 - MITM attack framework used for phishing credentials and session cookies from any Web service
-* [wifiphisher](https://github.com/sophron/wifiphisher) ⭐ 14,878 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Automated phishing attacks against Wi-Fi networks
-* [King Phisher](https://github.com/securestate/king-phisher) ⭐ 2,599 | 🐛 3 | 🌐 Python | 📅 2026-08-04 - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
+* [Evilginx2](https://github.com/kgretzky/evilginx2) ⭐ 15,692 | 🐛 266 | 🌐 Go | 📅 2026-06-10 - MITM attack framework used for phishing credentials and session cookies from any Web service
+* [wifiphisher](https://github.com/sophron/wifiphisher) ⭐ 14,879 | 🐛 353 | 🌐 Python | 📅 2026-05-22 - Automated phishing attacks against Wi-Fi networks
+* [King Phisher](https://github.com/securestate/king-phisher) ⭐ 2,599 | 🐛 2 | 🌐 Python | 📅 2026-08-04 - Phishing campaign toolkit used for creating and managing multiple simultaneous phishing attacks with custom email and server content.
 * [Gophish](https://getgophish.com/) - Open-Source Phishing Framework
 * [PhishingFrenzy](https://www.phishingfrenzy.com/) - Phishing Frenzy is an Open Source Ruby on Rails application that is leveraged by penetration testers to manage email phishing campaigns.
 * [Lucy Phishing Server](https://www.lucysecurity.com/) - (commercial) tool to perform security awareness trainings for employees including custom phishing campaigns, malware attacks etc. Includes many useful attack templates as well as training materials to raise security awareness.
@@ -168,14 +168,14 @@ Most of these books covers the basics of psychology useful for a social engineer
 
 #### OSINT Resources
 
-* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 29,919 | 🐛 5 | 📅 2026-10-05 - Awesome list of OSINT
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 29,987 | 🐛 0 | 📅 2026-10-06 - Awesome list of OSINT
 * [OSINT Framework](http://osintframework.com/) - Collection of various OSInt tools broken out by category.
 * [NetBootcamp OSINT Tools](http://netbootcamp.org/osinttools/) - A collection of OSINT links and custom Web interfaces to other services such as [Facebook Graph Search](http://netbootcamp.org/facebook.html) and [various paste sites](http://netbootcamp.org/pastesearch.html).
 * [Automating OSINT blog](http://www.automatingosint.com/blog/) - A blog about OSINT curated by Justin Seitz, the same author of BHP.
 
 #### OSINT Tools
 
-* [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,841 | 🐛 7 | 🌐 Python | 📅 2026-10-04 - E-mail, subdomain and people names harvester
+* [theHarvester](https://github.com/laramies/theHarvester) ⭐ 17,862 | 🐛 7 | 🌐 Python | 📅 2026-10-04 - E-mail, subdomain and people names harvester
 * [DataSploit](https://github.com/upgoingstar/datasploit) ⭐ 3,322 | 🐛 107 | 🌐 Python | 📅 2025-11-20 - OSINT visualizer utilizing Shodan, Censys, Clearbit, EmailHunter, FullContact, and Zoomeye behind the scenes.
 * [github-dorks](https://github.com/techgaun/github-dorks) ⭐ 3,288 | 🐛 10 | 🌐 Python | 📅 2026-09-15 - CLI tool to scan github repos/organizations for potential sensitive information leak
 * [XRay](https://github.com/evilsocket/xray) ⚠️ Archived - XRay is a tool for recon, mapping and OSINT gathering from public networks.
@@ -209,4 +209,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
