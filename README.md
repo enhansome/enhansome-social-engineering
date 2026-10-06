@@ -1,6 +1,6 @@
 # Awesome Social Engineering with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,362 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,380 | 🐛 106 | 📅 2026-09-02
 
 <p align="center">
   <img id="awesome-social-engineering" src="images/social_engineering.jpg">
@@ -168,7 +168,7 @@ Most of these books covers the basics of psychology useful for a social engineer
 
 #### OSINT Resources
 
-* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 29,987 | 🐛 0 | 📅 2026-10-06 - Awesome list of OSINT
+* [Awesome OSINT](https://github.com/jivoi/awesome-osint) ⭐ 29,988 | 🐛 0 | 📅 2026-10-06 - Awesome list of OSINT
 * [OSINT Framework](http://osintframework.com/) - Collection of various OSInt tools broken out by category.
 * [NetBootcamp OSINT Tools](http://netbootcamp.org/osinttools/) - A collection of OSINT links and custom Web interfaces to other services such as [Facebook Graph Search](http://netbootcamp.org/facebook.html) and [various paste sites](http://netbootcamp.org/pastesearch.html).
 * [Automating OSINT blog](http://www.automatingosint.com/blog/) - A blog about OSINT curated by Justin Seitz, the same author of BHP.
