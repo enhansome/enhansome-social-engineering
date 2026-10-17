@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15382,
+                "stars": 15387,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -49,7 +49,7 @@
                 "open_issues": 266,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15735,
+                "stars": 15736,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -138,10 +138,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-15T06:51:52Z",
-                "open_issues": 3,
+                "open_issues": 0,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 30270,
+                "stars": 30289,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -169,11 +169,11 @@
                 "id": 1212922,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-14T05:13:58Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-17T03:16:35Z",
+                "open_issues": 7,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 17978,
+                "stars": 17987,
                 "topics": [
                   "blueteam",
                   "discovery",
@@ -226,7 +226,7 @@
                 "open_issues": 10,
                 "owner": "techgaun",
                 "repo": "github-dorks",
-                "stars": 3291,
+                "stars": 3292,
                 "topics": [
                   "dork",
                   "dorker",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T08:59:09.864Z",
+    "last_updated": "2026-10-17T08:31:06.965Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome social engineering resources.",
