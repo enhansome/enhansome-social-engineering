@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15420,
+                "stars": 15423,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -49,7 +49,7 @@
                 "open_issues": 267,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15812,
+                "stars": 15817,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -70,7 +70,7 @@
                 "open_issues": 354,
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14929,
+                "stars": 14931,
                 "topics": [
                   "access-point",
                   "attack",
@@ -137,11 +137,11 @@
                 "id": 75189212,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T09:38:11Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-31T14:39:10Z",
+                "open_issues": 1,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 30590,
+                "stars": 30620,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -173,7 +173,7 @@
                 "open_issues": 7,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 18193,
+                "stars": 18206,
                 "topics": [
                   "blueteam",
                   "discovery",
@@ -226,7 +226,7 @@
                 "open_issues": 10,
                 "owner": "techgaun",
                 "repo": "github-dorks",
-                "stars": 3304,
+                "stars": 3303,
                 "topics": [
                   "dork",
                   "dorker",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:20:36.893Z",
+    "last_updated": "2026-11-01T11:13:43.532Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome social engineering resources.",
