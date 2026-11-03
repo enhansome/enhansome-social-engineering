@@ -21,7 +21,7 @@
                 "open_issues": 25,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15423,
+                "stars": 15424,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -49,7 +49,7 @@
                 "open_issues": 267,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15819,
+                "stars": 15821,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -138,10 +138,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-31T14:39:10Z",
-                "open_issues": 3,
+                "open_issues": 6,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 30655,
+                "stars": 30678,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -170,10 +170,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-30T14:32:01Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 18213,
+                "stars": 18219,
                 "topics": [
                   "blueteam",
                   "discovery",
@@ -282,7 +282,7 @@
                 "open_issues": 62,
                 "owner": "ilektrojohn",
                 "repo": "creepy",
-                "stars": 1500,
+                "stars": 1501,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -303,7 +303,7 @@
                 "open_issues": 19,
                 "owner": "laramies",
                 "repo": "metagoofil",
-                "stars": 1353,
+                "stars": 1354,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T12:17:46.609Z",
+    "last_updated": "2026-11-03T11:52:41.293Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome social engineering resources.",
