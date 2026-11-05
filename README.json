@@ -21,7 +21,7 @@
                 "open_issues": 25,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15432,
+                "stars": 15434,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -49,7 +49,7 @@
                 "open_issues": 267,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15824,
+                "stars": 15832,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -70,7 +70,7 @@
                 "open_issues": 354,
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 14938,
+                "stars": 14941,
                 "topics": [
                   "access-point",
                   "attack",
@@ -138,10 +138,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-04T06:17:35Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 30730,
+                "stars": 30762,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -173,7 +173,7 @@
                 "open_issues": 15,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 18225,
+                "stars": 18230,
                 "topics": [
                   "blueteam",
                   "discovery",
@@ -254,7 +254,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2336,
+                "stars": 2337,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -279,7 +279,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2016-01-07T12:51:33Z",
-                "open_issues": 62,
+                "open_issues": 61,
                 "owner": "ilektrojohn",
                 "repo": "creepy",
                 "stars": 1501,
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:02:23.912Z",
+    "last_updated": "2026-11-05T12:14:57.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome social engineering resources.",
@@ -490,7 +490,7 @@
       "open_issues": 14,
       "owner": "giuliacassara",
       "repo": "awesome-social-engineering",
-      "stars": 4314,
+      "stars": 4321,
       "topics": [
         "awesome-list",
         "infosec",
