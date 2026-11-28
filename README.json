@@ -21,7 +21,7 @@
                 "open_issues": 27,
                 "owner": "trustedsec",
                 "repo": "social-engineer-toolkit",
-                "stars": 15523,
+                "stars": 15525,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -49,7 +49,7 @@
                 "open_issues": 267,
                 "owner": "kgretzky",
                 "repo": "evilginx2",
-                "stars": 15994,
+                "stars": 15997,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -70,7 +70,7 @@
                 "open_issues": 354,
                 "owner": "wifiphisher",
                 "repo": "wifiphisher",
-                "stars": 15014,
+                "stars": 15016,
                 "topics": [
                   "access-point",
                   "attack",
@@ -138,10 +138,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-22T17:42:14Z",
-                "open_issues": 17,
+                "open_issues": 22,
                 "owner": "jivoi",
                 "repo": "awesome-osint",
-                "stars": 31401,
+                "stars": 31416,
                 "topics": [
                   "awesome-list",
                   "osint",
@@ -173,7 +173,7 @@
                 "open_issues": 15,
                 "owner": "laramies",
                 "repo": "theHarvester",
-                "stars": 18435,
+                "stars": 18462,
                 "topics": [
                   "blueteam",
                   "discovery",
@@ -226,7 +226,7 @@
                 "open_issues": 10,
                 "owner": "techgaun",
                 "repo": "github-dorks",
-                "stars": 3311,
+                "stars": 3310,
                 "topics": [
                   "dork",
                   "dorker",
@@ -254,7 +254,7 @@
                 "open_issues": 5,
                 "owner": "evilsocket",
                 "repo": "xray",
-                "stars": 2344,
+                "stars": 2345,
                 "topics": [
                   "intelligence",
                   "mapping",
@@ -303,7 +303,7 @@
                 "open_issues": 21,
                 "owner": "laramies",
                 "repo": "metagoofil",
-                "stars": 1372,
+                "stars": 1373,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:35:46.599Z"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T13:47:23.742Z",
+    "last_updated": "2026-11-28T12:55:14.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome social engineering resources.",
@@ -490,7 +490,7 @@
       "open_issues": 14,
       "owner": "giuliacassara",
       "repo": "awesome-social-engineering",
-      "stars": 4352,
+      "stars": 4353,
       "topics": [
         "awesome-list",
         "infosec",
